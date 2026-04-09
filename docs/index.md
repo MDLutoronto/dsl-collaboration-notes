@@ -165,5 +165,3 @@ For more information, see this [official video on the uses and purposes of group
 Proceed to [building a collection](https://mdl.library.utoronto.ca/technology/tutorials/digital-scholar-lab-collections)
 
 [Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
-
-Tools: [Digital Scholar Lab](/tools/digital-scholar-lab-0)
